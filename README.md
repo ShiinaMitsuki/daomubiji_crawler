@@ -8,6 +8,10 @@ lxml
 pandas
 tqdm
 ```
+
+```shell
+pip install -r requirements.txt
+```
 - Run
 
 1. gather book entries
